@@ -17,7 +17,7 @@ El objetivo de esta práctica es:
 * Angelina Castellano
 * Angie Guerrero
 * Johan Triana
-* * Zully Tamayo
+* Zully Tamayo
 
 ## 🛠️ Herramientas utilizadas
 
