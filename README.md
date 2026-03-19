@@ -12,12 +12,12 @@ El objetivo de esta práctica es:
 
 ## 👥 Integrantes
 
-* Zully Tamayo
 * Yuli Beltran
 * Valeria Beltran
 * Angelina Castellano
 * Angie Guerrero
 * Johan Triana
+* * Zully Tamayo
 
 ## 🛠️ Herramientas utilizadas
 
